@@ -2,4 +2,5 @@
 The source of shortened URLs by 横茶横葉(YokochaYokoha)!  
 管理者向け  
 a res  
-b res by Coffee Dynamic
+b res by Coffee Dynamic  
+c res by Coffee Dynamic2
